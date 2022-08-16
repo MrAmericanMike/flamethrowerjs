@@ -1,0 +1,32 @@
+{
+	"name": "flamethrowerjs",
+	"version": "0.0.0",
+	"description": "FlamethrowerJS",
+	"main": "lib/main.js",
+	"types": "lib/main.d.ts",
+	"author": "MrAmericanMike",
+	"scripts": {
+		"tsc": "tsc"
+	},
+	"files": [
+		"lib/**/*",
+		"package.json",
+		"README.md"
+	],
+	"keywords": [
+		"flamethrowerjs"
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/MrAmericanMike/flamethrowerjs#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MrAmericanMike/flamethrowerjs.git"
+	},
+	"bugs": {
+		"url": "https://github.com/MrAmericanMike/flamethrowerjs/issues"
+	},
+	"devDependencies": {
+		"@types/node": "^18.6.1",
+		"typescript": "^4.7.4"
+	}
+}
