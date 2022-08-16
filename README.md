@@ -12,4 +12,8 @@ In the meanwhile here you have some flames
 
 The idea is to have this project as an NPM Package
 
-Some changes on the Source Code were made in order to handle some TS complains
+Some changes on the Source Code will be made in the future.
+
+Check both source codes at
+[FlamthrowerJS](https://github.com/MrAmericanMike/flamethrowerjs) and
+[Flamethrower Fireship](https://github.com/fireship-io/flamethrower)
