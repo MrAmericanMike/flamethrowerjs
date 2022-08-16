@@ -1,11 +1,12 @@
 {
 	"name": "flamethrowerjs",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "FlamethrowerJS",
 	"main": "lib/main.js",
 	"types": "lib/main.d.ts",
 	"author": "MrAmericanMike",
 	"scripts": {
+		"build": "npx tsc --declaration",
 		"tsc": "tsc"
 	},
 	"files": [
